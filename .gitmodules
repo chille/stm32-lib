@@ -19,3 +19,6 @@
 [submodule "newlib-cygwin"]
 	path = newlib-cygwin
 	url = git://sourceware.org/git/newlib-cygwin.git
+[submodule "lwip"]
+	path = lwip
+	url = https://git.savannah.nongnu.org/git/lwip.git
