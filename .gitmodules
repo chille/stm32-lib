@@ -22,3 +22,6 @@
 [submodule "lwip"]
 	path = lwip
 	url = https://git.savannah.nongnu.org/git/lwip.git
+[submodule "lwip-contrib"]
+	path = lwip-contrib
+	url = https://git.savannah.nongnu.org/git/lwip/lwip-contrib.git
