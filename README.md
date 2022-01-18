@@ -23,7 +23,7 @@ Library                    | Provider           | License
 [STM32 HAL & LL Driver](3) | STMicroelectronics | BSD-3-Clause
 [newlib-cygwin](4)         |                    | Mixed
 [FreeRTOS-Kernel](5)       |                    | MIT
-[libusb](6)                |                    | LGPL-2.1
+[tinyusb](6)               |                    | MIT
 [lwip](7)                  |                    | Modified BSD License
 
 [1]: https://github.com/ARM-software/CMSIS_5
@@ -31,7 +31,7 @@ Library                    | Provider           | License
 [3]: https://github.com/STMicroelectronics/stm32f4xx_hal_driver
 [4]: https://sourceware.org/newlib/
 [5]: https://www.freertos.org/
-[6]: https://libusb.info/
+[6]: https://github.com/hathach/tinyusb
 [7]: https://savannah.nongnu.org/projects/lwip/
 
 
@@ -72,9 +72,9 @@ A free and popular realtime operating system for embedded devices.
 
 
 
-### libusb
+### tinyusb
 
-Open source USB stack
+Open source USB stack for embedded systems
 
 
 

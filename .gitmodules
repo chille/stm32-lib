@@ -25,6 +25,6 @@
 [submodule "lwip-contrib"]
 	path = lwip-contrib
 	url = https://git.savannah.nongnu.org/git/lwip/lwip-contrib.git
-[submodule "libusb"]
-	path = libusb
-	url = https://github.com/libusb/libusb
+[submodule "tinyusb"]
+	path = tinyusb
+	url = https://github.com/hathach/tinyusb
